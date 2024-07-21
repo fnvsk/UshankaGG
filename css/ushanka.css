@@ -1,5 +1,3 @@
-
-
 * {
     margin: 0;
     padding: 0;
@@ -326,6 +324,25 @@ body {
 
 }
 
+@media screen and (max-width:395px) {
+    .logo{
+        font-size:1.5rem;
+    }
+
+    .text{
+        font-size:0.7rem;
+    }
+}
+
+@media screen and (max-width:355px) {
+    .logo{
+        font-size:1.3rem;
+    }
+
+    .text{
+        font-size:0.6rem;
+    }
+}
 
 
 .brands {
@@ -380,10 +397,20 @@ body {
     transition: all .25s
 }
 
-@media screen and (max-width: 378px) {
-    .container{
-        margin-top: 50%;
+@media only screen and (max-width:390px) {
+    body{
+        height:125vh;
+    }
+}
+
+@media only screen and (max-height:361px) and (max-width:642px){
+    .wrapper{
+        flex-direction: row;
+       
 
     }
 
+    body{
+        height:155vh;
+    }
 }
