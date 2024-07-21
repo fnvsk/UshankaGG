@@ -237,11 +237,11 @@ body {
 @keyframes fadeInUp{
     0% {
       opacity: 0;
-      transform: translateY(15px);
+      transform: translateX(20px);
     }
     100% {
       opacity: 1;
-      transform: translateY(0);
+      transform: translateX(0);
     }
   }
 
@@ -297,12 +297,18 @@ body {
 }
 
 @media screen and (max-width:695px) {
+   
+    
     .wrapper {
-        flex-direction: column
+        flex-direction: column;
+        
+        
+
     }
 
     .indicator {
-        border-right: none
+        border-right: none;
+        border-bottom: 3px solid #20222d;
     }
 
     .logo{
@@ -312,6 +318,8 @@ body {
     .text{
         font-size:0.9rem;
     }
+
+    
     
     
 
