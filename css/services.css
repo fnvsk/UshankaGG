@@ -1,1 +1,215 @@
-.amazon{background-color:#c13584;box-shadow:8px 8px 14px -8px #c13584}.dev{background-color:#000;box-shadow:8px 8px 14px -8px #000}.facebook{background-color:#3b5998;box-shadow:8px 8px 14px -8px #3b5998}.github{background-color:#2b3137;box-shadow:8px 8px 14px -8px #2b3137}.google{background-color:#fff;box-shadow:8px 8px 14px -8px #fff}.instagram{background:linear-gradient(to bottom right,#c13584,#d62976,#962fbf);box-shadow:8px 8px 14px -8px #c13584}.linkedin{background-color:#0077b5;box-shadow:8px 8px 14px -8px #0077b5}.discord{background-color:#5865f2;box-shadow:8px 8px 14px -8px #5865f2}.paypal{background-color:#3b7bbf;box-shadow:8px 8px 14px -8px #3b7bbf}.twitter{background-color:#1da1f2;box-shadow:8px 8px 14px -8px #1da1f2}.youtube{background-color:red;box-shadow:2px 2px 14px -2px red}.twitch{background-color:#9446fd;box-shadow:2px 2px 14px -2px #9446fd}.goodgame{background-color:#1c2644;box-shadow:2px 2px 14px -2px #1c2644}.donationalerts{background:linear-gradient(to bottom right,#F57507,#F59C07);box-shadow:2px 2px 14px -2px #f57507}.telegram{background-color:#08c;box-shadow:2px 2px 14px -2px #08c}.boosty{background-color:#f15f2c;box-shadow:2px 2px 14px -2px #f15f2c}.spotify{background-color:#1db954;box-shadow:2px 2px 14px -2px #1db954}.steam{background-color:#2a475e;box-shadow:2px 2px 14px -2px #2a475e}.vk{background-color:#07f;box-shadow:2px 2px 14px -2px #07f}.beatstars{background-color:#eb0000;box-shadow:2px 2px 14px -2px #eb0000}.soundcloud{background:linear-gradient(to bottom right,#FF9533,#FE6D35);box-shadow:2px 2px 14px -2px #fe6d35}.trovo{background-color:#3cdb7d;box-shadow:2px 2px 14px -2px #3cdb7d}
+.amazon {
+    background-color: #c13584;
+}
+
+.amazon:hover {
+    box-shadow: 8px 8px 14px -8px #c13584;
+    transform: scale(1.1);
+}
+
+.dev {
+    background-color: #000;
+}
+
+.dev:hover {
+    box-shadow: 8px 8px 14px -8px #000;
+    transform: scale(1.1);
+}
+
+.facebook {
+    background-color: #3b5998;
+}
+
+.facebook:hover {
+    box-shadow: 8px 8px 14px -8px #3b5998;
+    transform: scale(1.1);
+}
+
+.github {
+    background-color: #2b3137;
+}
+
+.github:hover {
+    box-shadow: 8px 8px 14px -8px #2b3137;
+    transform: scale(1.1);
+}
+
+.google {
+    background-color: #fff;
+}
+
+.google:hover {
+    box-shadow: 8px 8px 14px -8px #fff;
+    transform: scale(1.1);
+}
+
+.instagram {
+    background: linear-gradient(to bottom right, #c13584, #d62976, #962fbf);
+}
+
+.instagram:hover {
+    box-shadow: 8px 8px 14px -8px #c13584;
+    transform: scale(1.1);
+}
+
+.linkedin {
+    background-color: #0077b5;
+}
+
+.linkedin:hover {
+    box-shadow: 8px 8px 14px -8px #0077b5;
+    transform: scale(1.1);
+}
+
+.discord {
+    background-color: #5865f2;
+}
+
+.discord:hover {
+    box-shadow: 8px 8px 14px -8px #5865f2;
+    transform: scale(1.1);
+}
+
+.paypal {
+    background-color: #3b7bbf;
+}
+
+.paypal:hover {
+    box-shadow: 8px 8px 14px -8px #3b7bbf;
+    transform: scale(1.1);
+}
+
+.twitter {
+    background-color: #1da1f2;
+}
+
+.twitter:hover {
+    box-shadow: 8px 8px 14px -8px #1da1f2;
+    transform: scale(1.1);
+}
+
+.youtube {
+    background-color: red;
+}
+
+.youtube:hover {
+    box-shadow: 2px 2px 14px -2px red;
+    transform: scale(1.1);
+}
+
+.twitch {
+    background-color: #9446fd;
+}
+
+.twitch:hover {
+    box-shadow: 2px 2px 14px -2px #9446fd;
+    transform: scale(1.1);
+}
+
+.goodgame {
+    background-color: #1c2644;
+}
+
+.goodgame:hover {
+    box-shadow: 2px 2px 14px -2px #1c2644;
+    transform: scale(1.1);
+}
+
+.donationalerts {
+    background: linear-gradient(to bottom right, #F57507, #F59C07);
+}
+
+.donationalerts:hover {
+    box-shadow: 2px 2px 14px -2px #f57507;
+    transform: scale(1.1);
+}
+
+.telegram {
+    background-color: #08c;
+}
+
+.telegram:hover {
+    box-shadow: 2px 2px 14px -2px #08c;
+    transform: scale(1.1);
+}
+
+.boosty {
+    background-color: #f15f2c;
+}
+
+.boosty:hover {
+    box-shadow: 2px 2px 14px -2px #f15f2c;
+    transform: scale(1.1);
+}
+
+.spotify {
+    background-color: #000000;
+}
+
+.spotify:hover {
+    box-shadow: 2px 2px 14px -2px #4b4b4b;
+    transform: scale(1.1);
+}
+
+.steam {
+    background-color: #2a475e;
+}
+
+.steam:hover {
+    box-shadow: 2px 2px 14px -2px #2a475e;
+    transform: scale(1.1);
+}
+
+.vk {
+    background-color: #07f;
+}
+
+.vk:hover {
+    box-shadow: 2px 2px 14px -2px #07f;
+    transform: scale(1.1);
+}
+
+.beatstars {
+    background-color: #eb0000;
+}
+
+.beatstars:hover {
+    box-shadow: 2px 2px 14px -2px #eb0000;
+    transform: scale(1.1);
+}
+
+.soundcloud {
+    background: linear-gradient(to bottom right, #FF9533, #FE6D35);
+}
+
+.soundcloud:hover {
+    box-shadow: 2px 2px 14px -2px #fe6d35;
+    transform: scale(1.1);
+}
+
+.trovo {
+    background-color: #3cdb7d;
+}
+
+.trovo:hover {
+    box-shadow: 2px 2px 14px -2px #3cdb7d;
+    transform: scale(1.1);
+}
+
+.yandex-music{
+    background-color: #ffffff;
+}
+
+.yandex-music:hover{
+    box-shadow: 2px 2px 14px -2px #ffffff;
+    transform: scale(1.1);
+}
+
+.genius{
+    background-color: rgb(255, 255, 100);
+}
+
+.genius:hover{
+     box-shadow: 2px 2px 14px -2px #ffffff;
+    transform: scale(1.1);
+}
