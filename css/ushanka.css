@@ -203,6 +203,7 @@ body {
     color: var(--blue);
     background-color: #1f2130;
     border-right-color: var(--blue);
+    border-radius:5px;
 
 }
 
@@ -214,6 +215,7 @@ body {
 .indicator li.active {
     border-right-color: var(--dark-grey);
     color: var(--dark-grey);
+    border-radius:5px;
 
 }
 
