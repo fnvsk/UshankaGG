@@ -415,4 +415,14 @@ body {
     }
 }
 
+.telegram-button{
+    margin-top:1rem;
+    width: 400px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+
 
