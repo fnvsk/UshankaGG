@@ -213,3 +213,13 @@
      box-shadow: 2px 2px 14px -2px #ffffff;
     transform: scale(1.1);
 }
+
+.telegram-button{
+    
+    background-color: #08c;
+}
+
+.telegram-button:hover{
+    box-shadow: 2px 2px 14px -2px #08c;
+    transform: scale(1.1);
+}
