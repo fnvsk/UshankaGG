@@ -30,11 +30,11 @@ window.addEventListener("DOMContentLoaded", ()=>{
                     
                 }, (idx+1)*50)
             })
-        },1000)
+        },3000)
         
         setTimeout(()=>{
             intro.style.top="-100vh"
-        },1300)
+        },3500)
     })
 }
 )
