@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: #1f212e;
+    color:#ffff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 45%;
+    font-size:2.5rem;
+}
+
+img{
+    align-items: center;
+    
+    max-width: 150px;
+
+}
+
+.text{
+    text-align: center;
+    font-size:0.9rem;
+    font-weight:500;
+    color:#eeeeee98;
+}
