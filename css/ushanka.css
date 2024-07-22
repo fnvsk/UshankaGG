@@ -417,12 +417,18 @@ body {
 
 .telegram-button{
     margin-top:1rem;
-    width: 400px;
+    max-width: 400px;
+    width:100%;
     display: inline-flex;
     align-items: center;
     justify-content: center;
    
     
 }
+@media only screen and (max-width:1090px) {
+    .telegram-button{
+        width:75%;
+}
+
 
 
