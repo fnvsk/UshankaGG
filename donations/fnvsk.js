@@ -94,8 +94,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 'line_items[0][price_data][unit_amount]': amountInCents,
                 'line_items[0][quantity]': 1,
                 'mode': 'payment',
-                'success_url': window.location.origin + '/donations/success',
-                'cancel_url': window.location.origin + '/donations/cancel'
+                'success_url': window.location.origin + './donations/success',
+                'cancel_url': window.location.origin + './donations/cancel'
             })
         });
 
